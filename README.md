@@ -8,4 +8,4 @@
 
 📚Reading [Cosimo De’ Medici by K Dorothea Ewart ](https://www.goodreads.com/book/show/21027274-cosimo-de-medici)
 
-"You were born with wings why do you prefer to crawl through life ?"- Jalāl al-Dīn Muḥammad Rūmī
+"O lofty birds, death is better than the gifted food, that hinders your ability to fly" - Muhammad Iqbal
