@@ -6,6 +6,6 @@
 
 🥷🏽Interested in Artificial intelligence, History, Geopolitics and Business
 
-📚Reading [Cosimo De’ Medici by K Dorothea Ewart ](https://www.goodreads.com/book/show/21027274-cosimo-de-medici)
+📚Reading [Crossed Swords: Pakistan, Its Army, and the Wars Within ](https://www.goodreads.com/en/book/show/3640913-crossed-swords)
 
 "O lofty birds, death is better than the gifted food, that hinders your ability to fly" - Muhammad Iqbal
