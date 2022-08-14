@@ -1,10 +1,13 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+ 
 
 ### <div align="center">I'm Zain, a MEng Mechanical Engineering Graduate with a passion for Data, AI & Machine Learning. </div>  
   
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzkhan98&theme=solarized_dark" alt="Zain Khan" />
+</p>
 
 
 
@@ -41,9 +44,6 @@
 
 
 
-
-## Github Stats  
-![Zains GitHub stats](https://github-readme-stats.vercel.app/api?username=mzkhan98&show_icons=true&theme=radical)
 
 
 
